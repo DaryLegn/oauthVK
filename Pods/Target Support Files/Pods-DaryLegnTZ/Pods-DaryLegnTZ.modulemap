@@ -1,0 +1,6 @@
+framework module Pods_DaryLegnTZ {
+  umbrella header "Pods-DaryLegnTZ-umbrella.h"
+
+  export *
+  module * { export * }
+}
